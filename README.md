@@ -1,4 +1,3 @@
-<!-- fallback_JS_20250906052712_88859 -->
 
 # JS: Advanced JSONValidator empowers enterprises with a Scalable, Intelligent Validation Engine enforcing JSON Schema, across a Distributed Platform Implementation
 > Advanced rust solution leveraging modern architecture patterns and cutting-edge technology.
@@ -42,7 +41,7 @@ To install JS, follow these steps:
 
 JS supports various configuration options to customize behavior and optimize performance for your specific use case. Configuration can be managed through environment variables, configuration files, or programmatic settings.
 
-## # Configuration Options
+##  Configuration Options
 
 The following configuration parameters are available:
 
@@ -55,14 +54,14 @@ The following configuration parameters are available:
 
 Contributions to JS are welcome and appreciated! We value community input and encourage developers to help improve this project.
 
-## # How to Contribute
+##  How to Contribute
 
 1. Fork the JS repository.
 2. Create a new branch for your feature or fix.
 3. Implement your changes, ensuring they adhere to the project's coding standards and guidelines.
 4. Submit a pull request, providing a detailed description of your changes.
 
-## # Development Guidelines
+##  Development Guidelines
 
 * Follow the existing code style and formatting conventions
 * Write comprehensive tests for new features
